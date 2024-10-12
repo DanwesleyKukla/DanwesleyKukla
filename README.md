@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil, espero que goste das minhas ideias.
-  Estou atento para novas ideias, e sugestões! 😁
+  Estou atento para novas ideias, e sugestões, pois ainda estou aprendendo! 😁
   
  <div>
    <a href="https://github.com/DanwesleyKukla">
