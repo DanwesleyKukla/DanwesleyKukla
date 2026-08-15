@@ -15,9 +15,13 @@
  
 <br>
  
-### Pra Contato Segue ou Adiciona pelos Links abaixo! 
  
 <div> 
-  <a href = "mailto:danwesleykukla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  # 📧 Contato
+
+Se quiser falar comigo, basta clicar na logo abaixo:
+
+[![Enviar Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png)](mailto:danwesleykukla@gmail.com)
+
   <a href="www.linkedin.com/in/wesley-kukla-04a437245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
